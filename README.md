@@ -1,12 +1,12 @@
 # Catch Them All
 3D Pokemon inspired prototype made with Unity
 
-## game features
+## Game features
 
 * Walk into the grass and encounter sprites
 * Use items, switch and command sprites to battle and capture sprites
 
-## technologies
+## Technologies
 
 * Implemented AssetBundle to pack resources and manipulated the asset files with ScriptableObject to construct the item system, the moves system and the ability system
 * Created object pools to store special effect resources and monster models 
